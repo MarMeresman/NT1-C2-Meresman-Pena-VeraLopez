@@ -1,0 +1,72 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+}
+
+body {
+  background-color: #cccccc;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+
+
+h2 {
+  display: block;
+  font-size: 2.5em;
+  margin-top: 0.83em;
+  margin-bottom: 0.83em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  font-family:"Candara";
+}
+
+
+
+.Cabecera {
+font-family:"Perpetua";		
+}
+
+.Pie {
+font-family:"Optima";	
+font-size: 12px;	
+}
+
+
+
+
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse; 
+}
+
+th {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	color: black;
+	background-color: #CDCDCD;	
+}
+
+td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+	vertical-align: center;
+	background-color: #999999;
+	}
+	h5 {text-align: center;}
+  h4 {text-align: center;}
+  h3 {}
+  h2 {text-align: center;}
+  h1 {text-align: center;}
+
+
+
